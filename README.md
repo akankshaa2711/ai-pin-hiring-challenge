@@ -29,7 +29,7 @@ Bytes per second = 16,000 × 2 = 32,000 bytes
                          =320,000 ÷ 1024 ≈ 312.5 KB
 
 
-#### Question 3: Privacy Hardware 
+### Question 3: Privacy Hardware
 The hard mute switch should be wired in series with the microphone power supply (VCC).
 When the switch is OFF, power is physically disconnected from the microphone.
 Even if software crashes or behaves incorrectly, the microphone cannot turn on, ensuring absolute privacy.
